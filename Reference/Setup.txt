@@ -1,0 +1,14 @@
+https://robocorp.com/download
+
+VSCode Plugin:
+https://marketplace.visualstudio.com/items?itemName=robocorp.robocorp-code
+https://marketplace.visualstudio.com/items?itemName=robocorp.robotframework-lsp
+
+https://robocorp.com/docs/courses/beginners-course/set-up-robocorp-lab
+1. CTRL SHIFT P .
+2. Create Robot.
+3. Standard robot framework template.
+4. Use workspace folder.
+
+1. Click on the Monkey Icon on the left tool bar to run test.
+2. CTRL SHIFT P , Run Robot

@@ -1,0 +1,6 @@
+https://rpaframework.org/
+
+https://robocorp.com/docs/development-guide/browser/how-to-find-user-interface-elements-using-locators-in-web-applications
+
+https://robocorp.com/docs/libraries/rpa-framework/rpa-excel-files
+https://robocorp.com/docs/libraries/rpa-framework/rpa-browser-selenium
